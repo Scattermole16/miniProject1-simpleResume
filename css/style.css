@@ -12,7 +12,7 @@
 }
 
 .col-1 {
-    width: 8.33%;
+    width: 20.33%;
 }
 
 .col-2 {
@@ -68,8 +68,12 @@
 
 
 
-body{
-    font-family: 'Lato', sans-serif;
-    color:#747704;
+body {
+    font-family: 'Luminari', sans-serif;
+    color: #770018;
     font-weight: 300;
+    background-color: black;
+}
+h1 {
+    margin-left: 650px;
 }
